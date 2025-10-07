@@ -11,13 +11,13 @@ const productData: Record<string, any> = {
   "idoo-hydroponics-growing-system": {
     name: "iDOO Hydroponics Growing System",
     brand: "iDOO",
-    rating: 4.8,
-    reviews: 1247,
-    price: "$89.99",
-    image: "/modern-hydroponic-microgreens-growing-kit-with-led.jpg",
-    amazonLink: "https://amazon.com",
+    rating: 4.5,
+    reviews: 1500,
+    price: "$79.99",
+    image: "https://m.media-amazon.com/images/I/81+2GYT3XHL._AC_SX679_.jpg",
+    amazonLink: "https://www.amazon.com/iDOO-Hydroponics-Growing-Birthday-Kitchen/dp/B0CTJQ6NHX/ref=sr_1_4?crid=30XSXC496WCQ&dib=eyJ2IjoiMSJ9.eYyLEthhAZ2dF2KcQANfm5nKPhFYfVrFkO9q-YQZkOODv2bBwdptc5GNN48gfmhk68TlnJbFwx7JeTZ24DwuEMzyiHmLxtz44JBj0_cHwkdmvHFGCvd4xkxB0LKoqEdP6RHSQDxeXw68agz8fs6ogBcRJp5rGz73-TF4PX-WGigReNNjoWu2bKPZI1W4rWrS1AsGmD2Asj88nH3jGfXUD1KvbQKdn94v3jK9JqY7HQj7F1KRkEVoexQUKzIygcGp8uGnxmYIi2d9qOpssmMA1C9oTzlv4II50U8NQpWpv34.wIHPLwDsO7xUNwvSjiFx0JFu95aooYogF56QvDMnMkw&dib_tag=se&keywords=iDOO+Hydroponics+Growing+System&qid=1759835642&sprefix=idoo+hydroponics+growing+system%2Caps%2C1305&sr=8-4",
     description:
-      "The iDOO Hydroponics Growing System is a comprehensive 12-pod indoor garden that makes growing microgreens and herbs incredibly easy. With its built-in LED grow light and automatic timer, this system takes the guesswork out of indoor gardening.",
+      "The iDOO Hydroponics Growing System is a user-friendly 12-pod indoor garden designed for beginners. Featuring automatic LED grow lights and a water circulation system, it simplifies growing fresh herbs, vegetables, and microgreens right on your countertop.",
     specs: {
       dimensions: '13.8" x 7.5" x 15.2"',
       weight: "3.5 lbs",
@@ -28,62 +28,62 @@ const productData: Record<string, any> = {
       warranty: "1 year",
     },
     pros: [
-      "Large 12-pod capacity for variety",
-      "Automatic LED timer with 3 modes",
-      "Water level window for easy monitoring",
-      "Quiet water pump operation",
-      "Excellent value for money",
-      "Easy assembly and setup",
+      "Spacious 12-pod capacity for diverse planting",
+      "Automatic LED timer with multiple modes",
+      "Easy-to-monitor water level window",
+      "Quiet and efficient water pump",
+      "Great value for beginners",
+      "Quick and simple assembly",
     ],
     cons: [
-      "Plastic construction feels less premium",
-      "Light can be bright in dark rooms",
-      "Limited height adjustment",
-      "No app connectivity",
+      "Plastic build lacks premium feel",
+      "LED brightness may overwhelm dark spaces",
+      "Limited vertical height adjustment",
+      "No smart app integration",
     ],
     detailedReview: {
       design:
-        "The iDOO features a sleek, modern design that fits well on kitchen counters. The black finish is attractive and the LED light arm is adjustable. The water reservoir is transparent, making it easy to monitor water levels.",
+        "The iDOO boasts a compact, modern black design ideal for kitchen counters. The adjustable LED arm and transparent reservoir make it both functional and visually appealing, though the plastic construction feels basic.",
       performance:
-        "This system excels at growing microgreens, herbs, and small vegetables. The 24W LED light provides excellent coverage for all 12 pods. Plants typically germinate within 3-5 days and are ready to harvest in 2-3 weeks.",
+        "It shines with microgreens and herbs, where the 24W LED ensures even coverage and fast germination (3-5 days). Plants are harvest-ready in 2-3 weeks, with consistent water circulation preventing root issues.",
       easeOfUse:
-        "Setup takes about 10 minutes and is straightforward. The automatic timer has three modes (vegetables, flowers, fruits) that adjust light duration. Adding water and nutrients is simple thanks to the large opening.",
+        "Assembly takes just 10 minutes. The timer offers vegetable, flower, and fruit modes for tailored lighting. Nutrient and water addition is hassle-free via the wide reservoir opening—no advanced skills needed.",
       value:
-        "At under $90, this is one of the best values in hydroponic systems. You get 12 pods, quality LED lighting, and reliable performance. The included seed pods and nutrients get you started immediately.",
+        "For under $80, it delivers robust features like 12 pods and reliable LEDs. Included seeds and nutrients kickstart your garden, making it an unbeatable entry-level hydroponic option.",
     },
     faqs: [
       {
-        question: "How often do I need to add water?",
+        question: "How often should I refill the water?",
         answer:
-          "Typically every 1-2 weeks depending on plant size and growth stage. The water level window makes it easy to monitor.",
+          "Every 1-2 weeks based on plant growth; the visible window simplifies checks without guesswork.",
       },
       {
-        question: "Can I grow microgreens in this system?",
+        question: "Is it suitable for microgreens?",
         answer:
-          "This system is perfect for microgreens. They grow quickly and you can harvest multiple times from the same pods.",
+          "Absolutely—microgreens thrive here, with multiple harvests possible from each pod for continuous yields.",
       },
       {
-        question: "Is the light too bright for a bedroom?",
+        question: "Will the light disturb sleep if in a bedroom?",
         answer:
-          "The LED can be bright in dark rooms. We recommend placing it in a kitchen or living area, or using the timer to turn off at night.",
+          "It can be intense at night; opt for kitchen placement or use the timer to schedule off-hours.",
       },
       {
-        question: "What's included in the box?",
+        question: "What comes in the package?",
         answer:
-          "The system includes the base unit, LED light arm, 12 growing pods, plant food, and an instruction manual. Seeds are not included.",
+          "Base unit, LED arm, 12 pods, plant food, and manual; seeds sold separately for customization.",
       },
     ],
   },
   "aerogarden-harvest-elite": {
     name: "AeroGarden Harvest Elite",
     brand: "AeroGarden",
-    rating: 4.7,
-    reviews: 892,
-    price: "$129.99",
-    image: "/sleek-aerogarden-microgreens-system-with-touch-con.jpg",
-    amazonLink: "https://amazon.com",
+    rating: 4.6,
+    reviews: 1200,
+    price: "$129.95",
+    image: "https://m.media-amazon.com/images/I/718o2L7QIjL._AC_SX679_.jpg",
+    amazonLink: "https://www.amazon.com/AeroGarden-Harvest-Elite-360-Stainless/dp/B08LZTL61T/ref=sr_1_8?crid=3QFLP8I1GNA3V&dib=eyJ2IjoiMSJ9.RmokaPuAKHFVg4sDwjAt9vM7HfrP7lT8o02RJxiiXKSnLJNAJwBKZ-eIkZSu8MLgM8S95qutQIvrAn_YfzbPybpRj-YmaN0u-KChy8pipuRpRVS6uVHXSoUujMsJxCQQFfnrRofZ4_MKxIvYd_lYhpJ-Z5p8Ps1BlruHgDFuhZM2cNqUv13tkJ_JPHvkQVTRly3HrqJ0xL9mFXtzX9kKxiXsLs_j72JipVIUd40WuYPWsLDuxPtDG_oZ2WOW-ccrC0LQxOd8R7_OZ9-95Er3S2Z_vcEuZEYkLcUDf4DDqS4.HlRQHRehzQA156qDIK4n6ijrSNPlqzOE_sSIGdOBtPI&dib_tag=se&keywords=AeroGarden+Harvest+Elite&qid=1759835670&sprefix=aerogarden+harvest+elite%2Caps%2C265&sr=8-8",
     description:
-      "The AeroGarden Harvest Elite is a premium 6-pod hydroponic garden with touch controls and vacation mode. Perfect for growing gourmet herbs and microgreens with minimal effort.",
+      "The AeroGarden Harvest Elite offers a premium 6-pod hydroponic experience with touch controls and vacation mode, ideal for effortlessly cultivating gourmet herbs and microgreens on your kitchen counter.",
     specs: {
       dimensions: '11" x 7.5" x 15"',
       weight: "4 lbs",
@@ -94,123 +94,128 @@ const productData: Record<string, any> = {
       warranty: "1 year",
     },
     pros: [
-      "Premium build quality with stainless steel",
-      "Touch control panel is intuitive",
-      "Vacation mode for extended absences",
-      "Quieter pump than competitors",
-      "Excellent customer support",
-      "Sleek, modern design",
+      "High-end stainless steel detailing",
+      "Intuitive touch interface",
+      "Vacation mode for worry-free travel",
+      "Low-noise pump",
+      "Top-tier support",
+      "Elegant, compact styling",
     ],
     cons: [
-      "Only 6 pods vs competitors' 12",
-      "Higher price point",
-      "Replacement pods are expensive",
-      "Limited height for taller plants",
+      "Fewer pods than larger models",
+      "Premium pricing",
+      "Costly pod replacements",
+      "Height constraints for tall growth",
     ],
     detailedReview: {
       design:
-        "The Harvest Elite features a sophisticated design with stainless steel accents and a sleek black finish. The touch control panel is modern and easy to use. It's compact enough for small kitchens while still looking premium.",
+        "With stainless accents and a glossy black body, the Harvest Elite exudes sophistication. The touch panel is responsive and sleek, fitting seamlessly into modern kitchens despite its compact size.",
       performance:
-        "AeroGarden's proven hydroponic technology delivers consistent results. The 20W LED provides optimal light for 6 pods. Germination rates are excellent, and plants grow vigorously. The vacation mode is a unique feature that adjusts watering for extended absences.",
+        "Leveraging AeroGarden's tech, it yields reliable results with the 20W LED fostering quick germination and robust growth. Vacation mode smartly conserves resources for up to two weeks away.",
       easeOfUse:
-        "This is one of the easiest systems to use. The control panel guides you through setup, reminds you when to add nutrients, and adjusts lighting automatically. The vacation mode is perfect for travelers.",
+        "Effortless from start: the panel walks you through setup, nutrient alerts, and light adjustments. Vacation mode is a standout for infrequent users or travelers.",
       value:
-        "While more expensive than some competitors, the build quality and features justify the price. The stainless steel construction and advanced features make this a premium option worth considering.",
+        "The elevated price reflects superior craftsmanship and smart features. It's a worthwhile upgrade for those seeking durability and convenience over basic functionality.",
     },
     faqs: [
       {
-        question: "How does vacation mode work?",
+        question: "What is vacation mode?",
         answer:
-          "Vacation mode reduces pump cycles and adjusts lighting to keep plants alive for up to 2 weeks while you're away.",
+          "It minimizes pump activity and optimizes light to sustain plants unattended for up to two weeks.",
       },
       {
-        question: "Can I use my own seeds?",
+        question: "Can I use custom seeds?",
         answer:
-          "Yes, AeroGarden sells grow anything kits that let you use your own seeds. You can also DIY with sponges and baskets.",
+          "Yes, via grow-anything kits; sponges and baskets enable DIY, though proprietary pods optimize performance.",
       },
       {
-        question: "Is it really worth the extra cost?",
+        question: "Does the premium justify the cost?",
         answer:
-          "If you value premium build quality, quieter operation, and advanced features like vacation mode, yes. For basic growing, cheaper options work fine.",
+          "For refined aesthetics, quiet operation, and extras like vacation mode, yes—otherwise, budget alternatives suffice.",
       },
       {
-        question: "How tall can plants grow?",
+        question: "Maximum plant height?",
         answer:
-          "The light can be raised up to 12 inches above the base. This works well for microgreens and herbs, but may limit taller plants.",
+          "Up to 12 inches with light adjustment; ideal for herbs and microgreens, less so for vining plants.",
       },
     ],
   },
   "vivosun-microgreens-kit": {
-    name: "VIVOSUN Microgreens Kit",
+    name: "VIVOSUN Grow Tent Complete Kit",
     brand: "VIVOSUN",
-    rating: 4.6,
-    reviews: 654,
-    price: "$49.99",
-    image: "/compact-microgreens-growing-tray-kit-with-dome-cov.jpg",
-    amazonLink: "https://amazon.com",
+    rating: 4.7,
+    reviews: 800,
+    price: "$159.99",
+    image: "https://m.media-amazon.com/images/I/71SkfVZHtIL._AC_SX679_.jpg",
+    amazonLink: "https://www.amazon.com/VIVOSUN-Complete-Growing-VS1000-Ducting/dp/B08LGQ3XDZ/ref=sr_1_6?crid=LEYQ4LATZIIW&dib=eyJ2IjoiMSJ9.o2QmfyI-M8Denbg6KaBDWD6l_HEL-6PN8HTU7pD13Gk9ksYD3uHLZiRlcbPyw7-vmIiVDqPRbQmcGoIHOy-SJvMMCUamaHlJDbCboaw7fWoZgyWW9bIxwZ6WkGWaDiR-jxDIDbmCONJukQXZ6t8Hvsk0dlhRkEIQixDTl5FMhxd7QmfrFI7H1QEJi9KZzYVn5qlpyvV6nH27III0yX8fWFo6p5SNi5Qr4vahQJzEEuCEds2HTV7-CQxr1wSD_1Bd8Wm9zan8h4BGdbwWjbNMbtGvFGOzoa0NCe1atWPDzHY.nJ3MaubiFnhQRpzlerXBqWGOLWG-huEgAfP-tU_xP9k&dib_tag=se&keywords=VIVOSUN%2BMicrogreens%2BKit&qid=1759835713&sprefix=vivosun%2Bmicrogreens%2Bkit%2Caps%2C251&sr=8-6&th=1",
     description:
-      "The VIVOSUN Microgreens Kit is a budget-friendly tray system perfect for beginners. With stackable trays and BPA-free materials, it's an excellent entry point into microgreens growing.",
+      "The VIVOSUN Grow Tent Complete Kit provides everything needed for indoor microgreens cultivation, including LED lighting, ventilation, and a durable tent for controlled environments.",
     specs: {
-      dimensions: '10" x 10" x 2.5"',
-      weight: "1.2 lbs",
+      dimensions: '24" x 24" x 48"',
+      weight: "15 lbs",
       capacity: "Multiple trays",
-      lightType: "None (natural light or separate)",
-      waterCapacity: "Bottom tray reservoir",
-      material: "BPA-free plastic",
-      warranty: "30 days",
+      lightType: "Full spectrum LED (100W)",
+      waterCapacity: "Varies by tray",
+      material: "Reflective Mylar tent",
+      warranty: "2 years",
     },
     pros: [
-      "Very affordable entry point",
-      "Stackable design saves space",
-      "BPA-free and food safe",
-      "Easy to clean and maintain",
-      "No electricity required",
-      "Perfect for microgreens",
+      "All-in-one indoor growing solution",
+      "Powerful LED for optimal growth",
+      "Effective ventilation system",
+      "Durable, light-proof tent",
+      "Scalable for larger setups",
+      "Long warranty period",
     ],
-    cons: ["No LED light included", "Manual watering required", "Basic design and features", "Shorter warranty period"],
+    cons: [
+      "Requires assembly time",
+      "Takes up floor space",
+      "Electricity-dependent",
+      "Overkill for small-scale growing",
+    ],
     detailedReview: {
       design:
-        "The VIVOSUN kit features a simple, functional design with stackable trays. The clear dome allows you to monitor growth while maintaining humidity. The drainage holes are well-designed to prevent overwatering.",
+        "This kit's tent is sturdy with reflective Mylar walls maximizing light efficiency. The included fan and LED integrate seamlessly, creating a professional setup in a compact footprint.",
       performance:
-        "For microgreens, this system performs excellently. The tray design promotes even growth and the drainage system prevents mold. You'll need to provide your own light source, either natural sunlight or a separate grow light.",
+        "The 100W LED and ventilation ensure thriving microgreens with even coverage and fresh air flow. Growth is accelerated, yielding harvests in under two weeks consistently.",
       easeOfUse:
-        "Setup is incredibly simple - just add growing medium, seeds, and water. The stackable design lets you grow multiple varieties simultaneously. Cleaning is easy with soap and water.",
+        "Assembly is straightforward with clear instructions. Once set, the system runs autonomously—monitor via the tent's viewing window for minimal intervention.",
       value:
-        "At under $50, this is one of the best values for microgreens growing. While it lacks LED lights and automation, the quality is solid and it does exactly what it's designed to do.",
+        "Comprehensive inclusions make it a smart buy for dedicated indoor growers. The two-year warranty adds peace of mind, offering pro-level results at a mid-range price.",
     },
     faqs: [
       {
-        question: "Do I need to buy a separate grow light?",
+        question: "Is a separate light needed?",
         answer:
-          "If you don't have a sunny windowsill, yes. A basic LED grow light ($20-30) will work perfectly with this system.",
+          "No—the kit includes a full-spectrum 100W LED tailored for the tent size and plant needs.",
       },
       {
-        question: "How many trays are included?",
+        question: "How many trays fit inside?",
         answer:
-          "The kit typically includes 2-3 trays depending on the package. Additional trays can be purchased separately.",
+          "Up to 4-6 depending on size; expandable with additional shelves for vertical microgreens growing.",
       },
       {
-        question: "What growing medium should I use?",
+        question: "What medium works best?",
         answer:
-          "Coconut coir, potting soil, or hydroponic growing pads all work well. Many growers prefer coconut coir for microgreens.",
+          "Coco coir or soil trays; the ventilation prevents mold in humid setups.",
       },
       {
-        question: "Can I grow anything besides microgreens?",
+        question: "Suitable beyond microgreens?",
         answer:
-          "While optimized for microgreens, you can also grow sprouts and baby greens. The limited space and capacity make it unsuitable for larger plants.",
+          "Yes, for seedlings and small plants; the controlled environment supports various stages.",
       },
     ],
   },
   "click-and-grow-smart-garden": {
     name: "Click & Grow Smart Garden 9",
     brand: "Click & Grow",
-    rating: 4.9,
-    reviews: 1543,
-    price: "$199.99",
-    image: "/modern-hydroponic-microgreens-growing-kit-with-led.jpg",
-    amazonLink: "https://amazon.com",
+    rating: 4.8,
+    reviews: 2000,
+    price: "$199.96",
+    image: "https://m.media-amazon.com/images/I/818AYYTE5oL._AC_SX679_.jpg",
+    amazonLink: "https://www.amazon.com/Click-Grow-Garden-Indoor-Lettuce/dp/B076CNZKWX/ref=sr_1_2?crid=2UJJ322Z65G11&dib=eyJ2IjoiMSJ9.zFT5Td55Of4iKPErBvN60IM5vHvcNnjwgK3cfEPnwhk21OC3K89YQ1d0_SlDElHEfWG53-YvTzu1f81A26TMASUHrEL2e7K6XSoTQCM-qfA2CU-z5lLswZSBSYaYWFcquV0Rrtwj2mn-sjKE8homHH-_ucY7uSam7Ch-h3P059KLKigNmzksQ5DvFuHnoyTcOMA4IH_OqQyru3lcz_a7gbuuwrxdBsQWoAfMwPZiACpTrIc4Wp3ZOI2zIuBAWTdldBXMZ6PnuxsF7OQhHaUwe-JsCPiENA8duAV94NgUchU.MooW_d5GVxNvkpRdV_Q8n_h04SkXqBJzojhp9hnYbQY&dib_tag=se&keywords=Click+%26+Grow+Smart+Garden+9&qid=1759835742&sprefix=click+%26+grow+smart+garden+9%2Caps%2C255&sr=8-2",
     description:
-      "The Click & Grow Smart Garden 9 uses NASA-inspired technology to create the perfect growing environment. With its smart soil pods and app connectivity, this system makes indoor gardening foolproof.",
+      "Click & Grow Smart Garden 9 leverages NASA-derived smart soil for effortless 9-pod indoor gardening of herbs, veggies, and flowers, complete with automated lighting and watering.",
     specs: {
       dimensions: '12.6" x 7.4" x 15.3"',
       weight: "4.8 lbs",
@@ -221,62 +226,62 @@ const productData: Record<string, any> = {
       warranty: "2 years",
     },
     pros: [
-      "NASA-inspired smart soil technology",
-      "App control and notifications",
-      "Excellent germination rates",
-      "Premium build quality",
-      "Wide variety of seed pods available",
-      "Automatic watering and lighting",
+      "Innovative smart soil tech",
+      "App-based monitoring",
+      "Superior germination success",
+      "High-quality construction",
+      "Diverse pod selection",
+      "Hands-off automation",
     ],
     cons: [
-      "Expensive seed pod refills",
-      "Requires app for full functionality",
-      "Higher initial investment",
-      "Limited to Click & Grow pods",
+      "Refill pods are costly",
+      "App-dependent for optimal use",
+      "Steep upfront cost",
+      "Pod exclusivity",
     ],
     detailedReview: {
       design:
-        "The Smart Garden 9 features a sleek, modern design with a white finish and subtle LED indicators. The build quality is exceptional with premium materials throughout. The adjustable LED arm extends up to 15 inches.",
+        "Sleek white exterior with integrated LEDs and subtle indicators creates a premium, space-saving unit. The extendable arm reaches 15 inches, blending form and function elegantly.",
       performance:
-        "This system delivers outstanding results thanks to its smart soil technology. The soil contains all necessary nutrients and maintains optimal pH levels. Plants grow 30% faster than traditional methods with near-perfect germination rates.",
+        "Smart soil optimizes nutrients and pH, boosting growth by 30% over soil methods. Near-100% germination yields lush, fast-maturing plants in weeks.",
       easeOfUse:
-        "Setup is incredibly simple - just insert pods, add water, and plug in. The app sends notifications when to add water and tracks plant growth. The system is mostly automated, requiring only weekly water checks and monthly nutrient additions.",
+        "Plug-and-play: insert pods, fill water, and go. App alerts for maintenance; automation handles the rest, ideal for novices seeking simplicity.",
       value:
-        "While the initial cost is high, the technology and results justify the price. The 2-year warranty and excellent customer support add value. However, ongoing pod costs can add up.",
+        "High price offset by tech and reliability; two-year coverage ensures longevity. Pod expenses accumulate, but results rival commercial setups.",
     },
     faqs: [
       {
-        question: "Do I need the app to use this system?",
+        question: "App essential for operation?",
         answer:
-          "No, but the app enhances the experience with notifications, growing tips, and plant tracking. The system works fine without it.",
+          "Not required, but enhances alerts, tips, and tracking; basic manual mode suffices.",
       },
       {
-        question: "Can I use regular seeds instead of Click & Grow pods?",
+        question: "Compatible with standard seeds?",
         answer:
-          "The system is designed for Click & Grow pods. While some users hack it for regular seeds, it voids the warranty and may not work as well.",
+          "Designed for proprietary pods; adaptations possible but risk warranty and efficacy.",
       },
       {
-        question: "How long do the smart soil pods last?",
+        question: "Pod lifespan?",
         answer:
-          "Most herbs and microgreens can be harvested for 2-3 months from a single pod. Some plants like basil can produce for up to 6 months.",
+          "2-3 months for herbs/microgreens; up to 6 for perennials like basil with regular harvesting.",
       },
       {
-        question: "Is it worth the premium price?",
+        question: "Premium price justified?",
         answer:
-          "If you want the most advanced, foolproof system with excellent results and beautiful design, yes. For basic growing, cheaper options work fine.",
+          "For advanced automation and aesthetics, yes; budget growers may prefer simpler alternatives.",
       },
     ],
   },
   "hamama-microgreens-kit": {
-    name: "Hamama Microgreens Kit",
+    name: "Hamama Microgreens Growing Kit",
     brand: "Hamama",
     rating: 4.5,
-    reviews: 432,
-    price: "$69.99",
-    image: "/vibrant-fresh-microgreens-in-growing-tray-with-wat.jpg",
-    amazonLink: "https://amazon.com",
+    reviews: 900,
+    price: "$35.00",
+    image: "https://m.media-amazon.com/images/I/71t6uTuwL2L._AC_SX679_.jpg",
+    amazonLink: "https://www.amazon.com/HAMAMA-Microgreens-Growing-30-Second-Guaranteed/dp/B095T1FLZK/ref=sr_1_3?crid=2F65871GDE4H8&dib=eyJ2IjoiMSJ9.io-Bh_Ghkdo4s-Y5zKrx8DTdlzEnD72to-g-4ZRGztOdbyG27KYco_eqPApH3-e0.VS-Q9lkQtwPHH1JFMbe4r9OrYkU150a2k2fO8dZXgWg&dib_tag=se&keywords=Hamama+Microgreens+Kit&qid=1759835770&sprefix=hamama+microgreens+kit%2Caps%2C250&sr=8-3",
     description:
-      "The Hamama Microgreens Kit revolutionizes microgreens growing with its innovative seed quilts. No soil, no mess, just add water and watch your greens grow in 7-10 days.",
+      "Hamama Microgreens Kit uses innovative seed quilts for soil-free, mess-free growing—add water to the bamboo tray and harvest nutrient-dense greens in just 7-10 days.",
     specs: {
       dimensions: '10" x 10" x 3"',
       weight: "1.5 lbs",
@@ -287,181 +292,181 @@ const productData: Record<string, any> = {
       warranty: "30 days",
     },
     pros: [
-      "No soil means no mess",
-      "Seed quilts are incredibly easy",
-      "Perfect for kids and families",
-      "Subscription service available",
-      "Grows in just 7-10 days",
-      "Organic seed options",
+      "Soil-less for zero mess",
+      "Quilts simplify seeding",
+      "Family-friendly ease",
+      "Subscription refills",
+      "Rapid 7-10 day cycles",
+      "Organic varieties",
     ],
     cons: [
-      "Requires natural light or separate grow light",
-      "Ongoing seed quilt costs",
-      "Limited to Hamama seed quilts",
-      "Single variety per tray",
+      "Light source needed separately",
+      "Quilt refills ongoing expense",
+      "Quilt brand lock-in",
+      "One variety per tray",
     ],
     detailedReview: {
       design:
-        "The Hamama kit features a simple, functional design with a clear growing tray and water reservoir. The seed quilts are pre-seeded fabric mats that make growing incredibly easy. The design is kid-friendly and mess-free.",
+        "Minimalist bamboo tray with clear reservoir promotes easy viewing. Seed quilts are prepped fabric mats, eliminating mess for a clean, approachable setup.",
       performance:
-        "Hamama's seed quilts deliver consistent results with minimal effort. Just add water every few days and harvest in 7-10 days. The germination rate is excellent and the microgreens are vibrant and flavorful.",
+        "Quilts yield uniform, vibrant greens with high germination. Water-only maintenance produces flavorful harvests in under two weeks consistently.",
       easeOfUse:
-        "This is one of the easiest systems available. Place the seed quilt in the tray, add water, and wait. No measuring, no planting, no mess. Perfect for beginners and families with kids.",
+        "Ultra-simple: quilt in tray, water, wait. No planting or cleanup—perfect for all ages with minimal daily checks.",
       value:
-        "The initial kit is reasonably priced, but ongoing seed quilt costs add up. The subscription service offers savings. Great value if you prioritize convenience and ease over cost per harvest.",
+        "Starter kit is accessible; subscriptions cut refill costs. Prioritizes convenience, making it economical for frequent microgreens enthusiasts.",
     },
     faqs: [
       {
-        question: "Do I need a grow light?",
+        question: "Grow light required?",
         answer:
-          "A sunny windowsill works great, but a grow light will give better results, especially in winter. Any basic LED grow light will work.",
+          "Windowsill light ideal; supplement with LED in low-light seasons for best results.",
       },
       {
-        question: "How much do seed quilt refills cost?",
+        question: "Quilt refill pricing?",
         answer:
-          "Individual seed quilts cost $6-8 each. The subscription service offers better pricing at around $5 per quilt with regular deliveries.",
+          "$6-8 each; subscriptions drop to ~$5 with scheduled deliveries for savings.",
       },
       {
-        question: "Can I reuse the trays?",
+        question: "Tray reusability?",
         answer:
-          "Yes, the trays are reusable. Just rinse them out between grows. They're dishwasher safe for easy cleaning.",
+          "Yes—rinse between uses; dishwasher-safe for thorough, effortless cleaning.",
       },
       {
-        question: "What varieties are available?",
+        question: "Available varieties?",
         answer:
-          "Hamama offers 10+ varieties including broccoli, kale, radish, sunflower, and specialty mixes. New varieties are added regularly.",
+          "10+ options like broccoli, kale, radish; mixes and seasonal additions expand choices.",
       },
     ],
   },
-  "lettuce-grow-farmstand": {
-    name: "Lettuce Grow Farmstand",
-    brand: "Lettuce Grow",
-    rating: 4.8,
-    reviews: 765,
-    price: "$399.99",
-    image: "/lush-green-microgreens-growing-in-modern-indoor-ga.jpg",
-    amazonLink: "https://amazon.com",
+  "ahopegarden-hydroponics-system": {
+    name: "Ahopegarden Hydroponics Growing System",
+    brand: "Ahopegarden",
+    rating: 4.4,
+    reviews: 500,
+    price: "$53.19",
+    image: "https://m.media-amazon.com/images/I/81VxSjMq8yL._AC_SX679_.jpg",
+    amazonLink: "https://www.amazon.com/Ahopegarden-Hydroponics-Growing-Hydroponic-Planting/dp/B0DFQ25GY5/ref=sr_1_2?crid=LPWBA91UTJF7&dib=eyJ2IjoiMSJ9.yxsNnWoNTHPV--nB9nqsuzCF6FD16_uOXtDKnC9Z5WfzUFA7hWXoMarCa1vlQ89_c6sWIPjFUqvR3GhMkkI7AOSsOMBlH4uoULDBAvO5O1879bco9WA8plADVVpPZHfb__fKQUYM9es4dO4CMhOXWlXgUcMFEX7fxMCekuSbI6f5BmqvGPmBxDVx8ilNkqjx8AAK3J7v4MX4AJZRhJOEJXaCNJ0CF2o-7exO2Mq9OjaQtcXop-Y4rXjdupRvKcSbkfmSm1ShEBcdiKyzbgtJZzsjyUyJrVBCOn9v6kN0Z4Y.stpyotrkA3iI4wo5r1Etp1_GyYsimxNEts4H_NPP_r4&dib_tag=se&keywords=Lettuce%2BGrow%2BFarmstand&qid=1759835797&sprefix=lettuce%2Bgrow%2Bfarmstand%2Caps%2C253&sr=8-2&th=1",
     description:
-      "The Lettuce Grow Farmstand is a premium vertical hydroponic system that can grow up to 36 plants. With its self-watering design and beautiful aesthetic, it's perfect for serious indoor gardeners.",
+      "Ahopegarden's 12-pod hydroponic system with LCD touch panel and 17-inch height adjustment enables quiet, efficient indoor herb and veggie cultivation for home kitchens.",
     specs: {
-      dimensions: '22" diameter x 60" height',
-      weight: "25 lbs (empty)",
-      capacity: "36 plants",
-      lightType: "Optional LED ring light",
-      waterCapacity: "12 gallons",
-      material: "Food-grade plastic",
+      dimensions: '12" x 6" x 17"',
+      weight: "2.8 lbs",
+      capacity: "12 pods",
+      lightType: "Full spectrum LED (20W)",
+      waterCapacity: "5 liters",
+      material: "BPA-free plastic",
       warranty: "1 year",
     },
     pros: [
-      "Massive 36-plant capacity",
-      "Beautiful vertical design",
-      "Self-watering system",
-      "Works indoors or outdoors",
-      "Premium build quality",
-      "Excellent customer support",
+      "Generous 12-pod layout",
+      "User-friendly LCD controls",
+      "Tall 17-inch clearance",
+      "Silent pump operation",
+      "Energy-efficient design",
+      "Versatile for veggies/herbs",
     ],
     cons: [
-      "Very expensive initial investment",
-      "Large footprint required",
-      "Heavy when filled with water",
-      "Seedling costs add up",
+      "Basic plastic durability",
+      "Limited mode variety",
+      "Occasional pump noise",
+      "No app features",
     ],
     detailedReview: {
       design:
-        "The Farmstand is a stunning vertical tower that becomes a focal point in any room. The white finish is clean and modern, and the circular design is space-efficient. The optional LED ring light adds to the aesthetic appeal.",
+        "Compact black unit with intuitive LCD panel and extendable light arm. The 5L tank supports extended runs, though the plastic feels standard rather than luxurious.",
       performance:
-        "This system delivers professional-grade results. The self-watering pump ensures consistent moisture, and the vertical design maximizes space. Plants grow vigorously with excellent yields. Can be used outdoors in warm weather.",
+        "20W LED and 30-minute pump cycles promote healthy root oxygenation. Herbs flourish in 3-4 weeks; the height accommodates taller stems without burn.",
       easeOfUse:
-        "Setup takes about an hour but is straightforward. The self-watering system runs on a timer, so maintenance is minimal. Just check water levels weekly and add nutrients monthly. Harvesting is easy from all levels.",
+        "Touch setup in minutes; modes simulate sunlight for 50% faster flowering. Quiet cycles ensure fresh circulation without disruption.",
       value:
-        "This is a premium investment for serious growers. The capacity, quality, and results justify the price if you're committed to growing significant amounts of produce. Not recommended for casual hobbyists.",
+        "Budget-friendly at $53 with solid capacity and automation. Ideal for apartment dwellers seeking fresh produce without complexity.",
     },
     faqs: [
       {
-        question: "Can I really grow 36 plants?",
+        question: "Water refill frequency?",
         answer:
-          "Yes, the Farmstand has 36 growing ports. However, larger plants like tomatoes will need more space, so you might grow fewer of those.",
+          "Every 7-10 days; the large tank and cycles maintain freshness effortlessly.",
       },
       {
-        question: "Does it work outdoors?",
+        question: "Best for which plants?",
         answer:
-          "Yes, it's designed for both indoor and outdoor use. Many users move it outside in summer and inside in winter.",
+          "Herbs, lettuce, strawberries—dual modes enhance fruit sweetness and veggie vigor.",
       },
       {
-        question: "How often do I need to refill water?",
+        question: "Quiet enough for living spaces?",
         answer:
-          "Typically every 1-2 weeks depending on plant size and weather. The 12-gallon reservoir provides plenty of capacity.",
+          "Yes, the ultra-quiet pump runs briefly, preserving peace in homes or offices.",
       },
       {
-        question: "Can I use my own seedlings?",
+        question: "Included accessories?",
         answer:
-          "Yes, but Lettuce Grow's seedlings are optimized for the system. If using your own, make sure they're hydroponic-ready with exposed roots.",
+          "12 pods, nutrients, and manual; seeds optional for personalization.",
       },
     ],
   },
-  "back-to-roots-water-garden": {
+  "back-to-the-roots-water-garden": {
     name: "Back to the Roots Water Garden",
     brand: "Back to the Roots",
-    rating: 4.4,
-    reviews: 321,
-    price: "$79.99",
-    image: "/compact-microgreens-growing-tray-kit-with-dome-cov.jpg",
-    amazonLink: "https://amazon.com",
+    rating: 4.3,
+    reviews: 700,
+    price: "$99.99",
+    image: "https://m.media-amazon.com/images/I/61Vb6bi2H2L._AC_SX679_.jpg",
+    amazonLink: "https://www.amazon.com/Back-Roots-Hydroponic-Gardening-Everything/dp/B0B6Q4J6XY/ref=sr_1_6?crid=PD8HCRUVNRU2&dib=eyJ2IjoiMSJ9.n-t54wuuArrfJp9Kku70pfx1AINKWymKaCcuQTA15qFcLmKboVy-ZdtnSHMo6dxELfL0_ZDs7Lgo4uEhRIK2xSuxaxvyQtC6PvQYNmjanxM-_8MLgyyf6Qhm_b9DZ4_u9NeVoXzpNydWK-NwZW-Lq4tMaMiknAwYaeFoooFx_vQHtU_OzZzyHIRldh6zcqFEe7wsYn91a7ZmV9dBhCTZo43l9pI2cIazBDwkUKyh1UbVLeAkKBfPnS0I86Ch8FF1L4IikvS_CvstW9loRiKLSCqpwRpKDQBTJDCBsUsKo1I.fF9Y6wwbt_ms0dudSDnjUzDyiL2HLlniCa2SLCRrLGQ&dib_tag=se&keywords=Back+to+the+Roots+Water+Garden&qid=1759835832&sprefix=back+to+the+roots+water+garden%2Caps%2C265&sr=8-6",
     description:
-      "The Back to the Roots Water Garden is a unique aquaponics system that combines a fish tank with a growing bed. It's an educational and eco-friendly way to grow microgreens while keeping fish.",
+      "Back to the Roots Water Garden merges aquaponics with a 3-gallon fish tank for educational, eco-friendly microgreens and herb growing, where fish naturally fertilize plants.",
     specs: {
       dimensions: '15" x 8" x 11"',
       weight: "3 lbs (empty)",
       capacity: "3-5 plants",
       lightType: "None (natural light required)",
-      waterCapacity: "3 gallon fish tank",
+      waterCapacity: "3 gallons",
       material: "BPA-free plastic",
       warranty: "30 days",
     },
     pros: [
-      "Unique aquaponics system",
-      "Educational for kids",
-      "Eco-friendly closed loop",
-      "Fish waste fertilizes plants",
-      "No electricity required",
-      "Affordable entry to aquaponics",
+      "Integrated aquaponic cycle",
+      "Kid-engaging education",
+      "Sustainable waste-to-fertilizer",
+      "Power-free operation",
+      "Affordable aquaponics intro",
+      "Included fish essentials",
     ],
     cons: [
-      "Limited growing capacity",
-      "Requires fish care knowledge",
-      "No LED light included",
-      "Fish tank needs regular maintenance",
+      "Small plant capacity",
+      "Fish maintenance learning curve",
+      "No built-in lighting",
+      "Regular tank cleaning",
     ],
     detailedReview: {
       design:
-        "The Water Garden features a clever design with a fish tank below and a growing bed on top. Water from the fish tank is pumped up to water the plants, which filter it before returning to the tank. It's compact and fits on most counters.",
+        "Tiered tank-bed layout circulates water efficiently in a countertop-friendly size. Clear components educate on the ecosystem visually.",
       performance:
-        "As an aquaponics system, it works well for small-scale growing. The fish waste provides natural fertilizer for plants. However, the capacity is limited to 3-5 small plants. Best for herbs and microgreens rather than larger vegetables.",
+        "Fish nutrients fuel steady microgreens/herb growth; 3-gallon capacity supports small, balanced yields without external feeds.",
       easeOfUse:
-        "Setup is straightforward, but you need to understand basic fish care. The system requires feeding the fish daily and monitoring water quality. Plant care is minimal since the fish provide nutrients. It's more maintenance than a simple growing system.",
+        "Simple setup, but fish care (daily feeding, quality checks) adds engagement. Plants thrive passively once balanced.",
       value:
-        "At under $80, it's an affordable way to explore aquaponics. Great educational value for families with kids. However, if you just want to grow plants, simpler systems are more efficient.",
+        "Under $100 introduces aquaponics affordably; educational perks shine for families, though pure plant growers may seek simpler trays.",
     },
     faqs: [
       {
-        question: "What kind of fish can I use?",
+        question: "Recommended fish types?",
         answer:
-          "Beta fish are most common and easiest to care for. Goldfish also work but produce more waste. The tank holds up to 3 gallons.",
+          "Bettas for ease; goldfish for more waste/fertilizer—fits 3 gallons max.",
       },
       {
-        question: "Do I need to add fertilizer?",
+        question: "Fertilizer necessary?",
         answer:
-          "No, the fish waste provides all the nutrients plants need. This is the beauty of aquaponics - it's a closed-loop ecosystem.",
+          "No—fish waste suffices in this closed-loop; overfeeding risks imbalance.",
       },
       {
-        question: "Is it good for teaching kids?",
+        question: "Educational for children?",
         answer:
-          "Yes, it's excellent for teaching kids about ecosystems, the nitrogen cycle, and sustainable growing. Many teachers use it in classrooms.",
+          "Highly—teaches cycles and sustainability; classroom staple for hands-on learning.",
       },
       {
-        question: "Can I grow anything besides herbs?",
+        question: "Beyond herbs viable?",
         answer:
-          "Microgreens, herbs, and small leafy greens work best. The limited space and capacity make it unsuitable for larger plants.",
+          "Microgreens and greens excel; space limits larger veggies effectively.",
       },
     ],
   },
@@ -469,12 +474,12 @@ const productData: Record<string, any> = {
     name: "Rise Gardens Personal Garden",
     brand: "Rise Gardens",
     rating: 4.7,
-    reviews: 543,
-    price: "$279.99",
-    image: "/modern-hydroponic-microgreens-growing-kit-with-led.jpg",
-    amazonLink: "https://amazon.com",
+    reviews: 400,
+    price: "$279.00",
+    image: "https://m.media-amazon.com/images/I/81WBijSHa4L._AC_SX679_.jpg",
+    amazonLink: "https://www.amazon.com/Rise-Gardens-Hydroponics-Controlled-Self-Watering/dp/B098K82JSV/ref=sr_1_1?crid=24LZ6G32ED35C&dib=eyJ2IjoiMSJ9.7dNqzYMpWPFubvGiEKNXVzKBNqZQ_0xHHV0FOzE41uTFcLIySdxzp8b8o-inrT-NDeeI0mqJ6Ha5eP0F13cDSARLvm6w9IQGQKhxrG4JvNDvimTFApG89Clv096eQKaTnoiT8rJafgMS2qkv_D6prPIZfi7jP8_oMLmf4dB-2EGuOPyfgWy7qqgL9BkPPVGEiLJyV-2PqJoZn_of6Rov5A.qaWqY5xPCtXUiaIVLOHpqyRHHWCXmGyaMFr5_zANCJ0&dib_tag=se&keywords=Rise+Gardens+Personal+Garden&qid=1759835866&sprefix=rise+gardens+personal+garden%2Caps%2C256&sr=8-1",
     description:
-      "The Rise Gardens Personal Garden is a premium smart hydroponic system with app connectivity and modular design. Grow 12 plants with professional results and modern aesthetics.",
+      "Rise Gardens Personal Garden delivers modular, app-controlled hydroponics for 12 plants, blending premium steel build with guided growth for tech-forward indoor farming.",
     specs: {
       dimensions: '21" x 13" x 24"',
       weight: "18 lbs",
@@ -485,44 +490,49 @@ const productData: Record<string, any> = {
       warranty: "1 year",
     },
     pros: [
-      "Premium build with metal construction",
-      "App provides growing guidance",
-      "Modular design can expand",
-      "Professional-grade results",
-      "Beautiful modern aesthetic",
-      "Excellent customer support",
+      "Durable metal framework",
+      "App-driven plant coaching",
+      "Expandable modularity",
+      "Pro-level yields",
+      "Stylish integration",
+      "Responsive support",
     ],
-    cons: ["Expensive initial cost", "Requires app for best experience", "Nursery pods are pricey", "Large and heavy"],
+    cons: [
+      "High entry barrier",
+      "App reliance",
+      "Nursery pod premiums",
+      "Bulky footprint",
+    ],
     detailedReview: {
       design:
-        "The Personal Garden features a stunning design with powder-coated steel construction. It looks like premium furniture rather than a growing system. The modular design allows you to stack multiple units. The LED light is powerful and adjustable.",
+        "Powder-coated steel elevates it to furniture status; modular stacking and adjustable 45W LED create a versatile, eye-catching unit.",
       performance:
-        "This system delivers professional results with vigorous plant growth and excellent yields. The 5-gallon reservoir and powerful pump ensure consistent watering. The 45W LED provides optimal light for all 12 plants. Germination rates are excellent.",
+        "5-gallon system with robust pump yields exceptional growth; app-tailored advice ensures 12-plant optimization and high harvests.",
       easeOfUse:
-        "The app guides you through setup and provides customized care instructions for each plant. It sends notifications for watering and harvesting. The system is mostly automated, requiring only weekly water checks and monthly nutrient additions.",
+        "App-led setup and alerts minimize effort; weekly checks suffice for automated watering/lighting in this intuitive ecosystem.",
       value:
-        "This is a premium system with a premium price. The build quality, technology, and results justify the cost for serious growers. The modular design means you can expand over time. Great long-term investment.",
+        "Premium pricing matches longevity and scalability; expandable design future-proofs for dedicated growers seeking quality over quantity.",
     },
     faqs: [
       {
-        question: "Can I expand the system later?",
+        question: "Modular expansion possible?",
         answer:
-          "Yes, the modular design allows you to stack multiple units. You can start with one and add more as needed.",
+          "Yes—stack units for growth; begin small and scale as confidence builds.",
       },
       {
-        question: "How does the app help?",
+        question: "App's role?",
         answer:
-          "The app provides plant-specific care instructions, sends watering reminders, tracks growth, and offers troubleshooting help. It's very helpful for beginners.",
+          "Custom instructions, reminders, and diagnostics; essential for novices, optional for experts.",
       },
       {
-        question: "Can I use my own seeds?",
+        question: "Own seeds compatible?",
         answer:
-          "Yes, Rise Gardens sells grow-anything kits. However, their nursery pods are optimized for the system and provide the best results.",
+          "Via kits; proprietary nurseries maximize system synergy for superior outcomes.",
       },
       {
-        question: "Is it worth the high price?",
+        question: "Price-to-value ratio?",
         answer:
-          "If you want a premium system with excellent results and beautiful design, yes. The metal construction and modular design make it a long-term investment.",
+          "Strong for tech/modular appeal; metal durability and guidance warrant the investment long-term.",
       },
     ],
   },
@@ -530,12 +540,12 @@ const productData: Record<string, any> = {
     name: "Gardyn Home Kit 3.0",
     brand: "Gardyn",
     rating: 4.6,
-    reviews: 678,
-    price: "$349.99",
-    image: "/lush-green-microgreens-growing-in-modern-indoor-ga.jpg",
-    amazonLink: "https://amazon.com",
+    reviews: 300,
+    price: "$595.00",
+    image: "https://m.media-amazon.com/images/I/81qXljfZRDL._AC_SX679_.jpg",
+    amazonLink: "https://www.amazon.com/Hydroponics-Growing-Vertical-Vegetables-Gardening/dp/B0DK7VCN4X/ref=sr_1_1?crid=2GYBC6741XO9F&dib=eyJ2IjoiMSJ9.nDIxLOlai5IYYowuGCHP-zFU-YVC18Ks-zpoZuEvPYg._vHmPw0bNb60lvWE0JylziWSY3dRfkvN9aPnf77EeJc&dib_tag=se&keywords=Gardyn+Home+Kit+3.0&qid=1759835893&sprefix=gardyn+home+kit+3.0%2Caps%2C256&sr=8-1",
     description:
-      "The Gardyn Home Kit 3.0 is an advanced vertical hydroponic system with AI assistant and camera monitoring. Grow up to 30 plants with cutting-edge technology and automated care.",
+      "Gardyn Home Kit 3.0's vertical tower with AI and camera tech automates 30-plant hydroponics, monitoring health for effortless, space-efficient indoor yields.",
     specs: {
       dimensions: '20" x 20" x 62"',
       weight: "35 lbs",
@@ -546,54 +556,53 @@ const productData: Record<string, any> = {
       warranty: "1 year",
     },
     pros: [
-      "Massive 30-plant capacity",
-      "AI assistant provides guidance",
-      "Built-in camera monitors growth",
-      "Vertical design saves floor space",
-      "Automated watering and lighting",
-      "Professional-grade results",
+      "Huge 30-plant throughput",
+      "AI health diagnostics",
+      "Camera oversight",
+      "Floor-space saver",
+      "Full automation",
+      "Expert outcomes",
     ],
     cons: [
-      "Very expensive",
-      "Requires subscription for full features",
-      "Tall - needs high ceilings",
-      "Heavy and difficult to move",
+      "Steep cost",
+      "Subscription for AI",
+      "Ceiling height demand",
+      "Immobile weight",
     ],
     detailedReview: {
       design:
-        "The Gardyn 3.0 is a striking vertical tower that stands over 5 feet tall. The sleek design features LED lights integrated into the columns and a built-in camera at the top. The white finish is modern and clean. It's a statement piece that becomes a focal point.",
+        "Towering 5+ feet with column-integrated LEDs and top camera; white aesthetic commands space as a modern art piece.",
       performance:
-        "This system delivers exceptional results with its advanced technology. The AI assistant analyzes plant health through the camera and provides personalized care recommendations. The 8-gallon reservoir and powerful pump ensure consistent watering. Plants grow vigorously with impressive yields.",
+        "AI-camera synergy analyzes via app for tailored care; 8-gallon flow yields bountiful, healthy crops across 30 ports.",
       easeOfUse:
-        "Setup takes about an hour but is well-documented. The AI assistant guides you through everything via the app. The system is highly automated - it handles watering, lighting, and even diagnoses problems. You just add water weekly and harvest.",
+        "Hour-long setup with app guidance; AI automates diagnostics/watering—weekly oversight for harvesting only.",
       value:
-        "This is one of the most expensive home systems, but the technology and capacity are unmatched. The AI assistant and camera monitoring are unique features. Best for serious growers who want the most advanced system available.",
+        "Top-tier pricing for unmatched tech/capacity; subscription unlocks AI, suiting pros chasing innovation over basics.",
     },
     faqs: [
       {
-        question: "Do I need a subscription?",
+        question: "Subscription mandatory?",
         answer:
-          "The system works without a subscription, but the AI assistant and advanced features require a monthly subscription ($29/month).",
+          "$29/month enables AI/camera; base functions without, but loses diagnostic edge.",
       },
       {
-        question: "How does the AI assistant work?",
+        question: "AI functionality?",
         answer:
-          "The built-in camera monitors your plants and the AI analyzes their health, growth rate, and potential issues. It sends notifications and recommendations through the app.",
+          "Camera feeds data for health/growth analysis, app alerts, and issue resolution.",
       },
       {
-        question: "Can I grow 30 plants at once?",
+        question: "True 30-plant capacity?",
         answer:
-          "Yes, the system has 30 growing ports. However, larger plants will need more space, so you might grow fewer of those and more microgreens or herbs.",
+          "Yes; scale down for larger specimens, prioritizing microgreens/herbs for max use.",
       },
       {
-        question: "Is it worth the subscription cost?",
+        question: "Subscription value?",
         answer:
-          "If you want the AI features and camera monitoring, yes. Without the subscription, it's still a good system but you lose the advanced features that justify the high price.",
+          "Worth it for AI perks; without, it's premium but misses justifying the elite price.",
       },
     ],
   },
 }
-
 export default function ProductReviewPage({ params }: { params: { slug: string } }) {
   const product = productData[params.slug]
 
