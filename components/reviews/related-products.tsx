@@ -60,7 +60,7 @@ export function RelatedProducts({ currentProductId }: { currentProductId: string
                   <span className="text-sm font-medium">{product.rating}</span>
                 </div>
                 <div className="flex items-center justify-between pt-2">
-                  <span className="text-xl font-bold text-primary">{product.price}</span>
+                  
                   <Button asChild size="sm" variant="outline">
                     <Link href={`/reviews/${product.id}`}>
                       View
